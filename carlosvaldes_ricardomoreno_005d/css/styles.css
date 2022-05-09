@@ -1,0 +1,38 @@
+body{
+    background-color: #F77F66;
+}
+
+.bg-primary, .badge-primary, .btn-primary {
+    background-color: rgb(210, 50, 50) !important; /* Montar clase de bootstrap */
+}
+
+.footer {
+    padding-top: 80px;
+    color: white;
+}
+
+.footer img {
+    width: 40px;
+    margin-right: 20px;
+}
+
+.footer .copyright {
+    margin-top: 80px;
+    text-align: center;
+    padding: 10px 0;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+
+#main {
+    text-align: center;
+    font-size: 20px;
+}
+
